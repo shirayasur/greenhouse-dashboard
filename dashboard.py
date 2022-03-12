@@ -7,7 +7,7 @@ from utils import *
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
-UPDADE_INTERVAL = 1*60*60*5
+UPDATE_INTERVAL = 1*60*60*5
 
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 
