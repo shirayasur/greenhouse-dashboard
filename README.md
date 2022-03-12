@@ -1,4 +1,4 @@
-# greenhouse_dashboard
+# Greenhouse Recruitment Dashboard
  A recruitment tracking dashboard using Greenhouse API
 
 ## About
