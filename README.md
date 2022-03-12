@@ -1,5 +1,5 @@
 # Greenhouse Recruitment Dashboard
- A recruitment tracking dashboard using Greenhouse API
+Greenhouse dashboard for an overview of the recruitment process 
 
 ## About
 This dashboard tracks recruitment metrics from your greenhouse account using the Greenhouse API.
